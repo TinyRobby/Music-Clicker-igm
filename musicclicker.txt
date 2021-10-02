@@ -5,4 +5,3 @@ Resources
   *guitar
     name:Guitar
     desc:A nice guitar.
-Things
