@@ -1,0 +1,8 @@
+Let's make a game!
+  name:Music Clicker
+
+Resources
+  *guitar
+    name:Guitar
+    desc:A nice guitar.
+Things
