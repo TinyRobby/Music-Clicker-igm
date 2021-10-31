@@ -5,3 +5,7 @@ Resources
   *guitar
     name:Guitar
     desc:A nice guitar.
+*BuyGuitar
+  name:Guitar
+  desc:Click this to get a guitar
+  on click:yield 1 guitars
